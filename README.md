@@ -23,7 +23,7 @@ Cyclos 4 · Mifos / Fineract · Mobile banking · Wallets · Micro-credit · USS
 Asterisk · ISSABEL PBX · SIP · Kamailio · 60+ agent call center deployment · Hospital emergency VoIP (Bluetooth panic buttons) · 4G Wi-Fi for schools · Telematic fleet management
 
 ### 🔌 Electrical, Embedded & Industrial Engineering
-Power electronics · Instrumentation · Embedded systems (microcontrollers, Arduino, ARM) · Industrial automation · PLCs · Sensor integration · Real-time control · PCB design fundamentals
+Power electronics · Instrumentation · Embedded systems (microcontrollers, Arduino, ARM) · **FPGA design** (Verilog / VHDL) · Industrial automation · PLCs · Sensor integration · Real-time control · PCB design fundamentals
 Industrial Engineering & Maintenance · Thermal engineering · TPM / RCM frameworks · Production line industrialization · Reliability engineering
 *Academic foundation: dual Master I from IUC Douala — Electrical Engineering & Industrial Computing, plus Industrial Engineering & Maintenance.*
 
@@ -44,6 +44,11 @@ CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technolog
 - **IUC Douala** — Master I, Industrial Engineering & Maintenance (thermal, reliability, production)
 - **Université des Montagnes** — Licence, Networks & Telecommunications
 
+## Certifications
+
+- **University of Colorado Boulder** — FPGA module (validated PBA – Performance-Based Assessment)
+- **INCOSE / ISO 15288** — Product Development & Systems Engineering (Udemy, INCOSE-aligned)
+
 ---
 
 ## Track record
@@ -60,4 +65,4 @@ CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technolog
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tchetagni/)
 - 📄 Day rate: €500–700 / Hourly: €75–100 (flexible for remote and long-term)
 
-*Open to: senior MBSE / Systems Architecture / Solutions Engineering / Fintech / Industrial Engineering roles — full-time or freelance — France and worldwide remote.*
+*Open to: senior MBSE / Systems Architecture / Solutions Engineering / Fintech / Industrial Engineering / FPGA & embedded roles — full-time or freelance — France and worldwide remote.*
