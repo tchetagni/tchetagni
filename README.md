@@ -1,9 +1,9 @@
 # Esaie Tchetagni Ngassa
 
-**MBSE Systems Architect & Project Manager**
+**Project / Program Manager · MBSE Systems Architect · ILS Engineer**
 Ex-Safran R&D · CentraleSupélec MSc · Ex-CIO (100+ staff) · Founder & President of Smart Technologies Invest SAS
 
-I help regulated and tech-intensive industries — aerospace, defense, fintech, telecom, industrial automation — accelerate their engineering cycles through rigorous system modeling, software delivery and methodology industrialization.
+I help regulated and tech-intensive industries — aerospace, defense, fintech, telecom, industrial automation — accelerate their engineering cycles through rigorous system modeling, software delivery, integrated logistics support and methodology industrialization.
 
 Most of my code lives in private client repositories under NDA. This GitHub is the public surface of a 10+ year, multi-continent consulting career.
 
@@ -11,9 +11,16 @@ Most of my code lives in private client repositories under NDA. This GitHub is t
 
 ## What I bring
 
+### 📊 Project & Program Management
+Agile / Scrum · SAFe-aware · Multi-site programs across 4 continents · Cross-functional team leadership (up to 15 engineers, 100+ staff oversight as CIO) · Stakeholder management from operators to C-level · Risk, budget, scope, schedule · Vendor & subcontractor management
+*Track record: delivered fintech, telecom and R&D programs in Cameroon, Philippines, France, UK, India, USA.*
+
 ### 🔬 MBSE & Systems Engineering
 SysML · CESAM · Arcadia / Capella · MagicGrid · Cameo Systems Modeler 2022x · OpenMBEE · INCOSE / ISO 15288 · DSML
 *Most recent: led a worldwide DSML deployment for systems architecture at Safran Seats (CESAM methodology).*
+
+### 🛠️ Integrated Logistics Support (ILS) & Services Engineering
+LSA / LSAR (Logistics Support Analysis) · LORA (Level of Repair Analysis) · LCC (Life Cycle Cost) analysis · RAMS / Reliability · MTBF / MTTR · Provisioning & spare parts management · Maintenance planning (RCM, TPM) · Technical publications (S1000D-aware) · Training Needs Analysis · PHM (Prognostics & Health Management) · After-sales & field services engineering · ITIL-aligned IT services
 
 ### 💳 Fintech (10+ years)
 Cyclos 4 · Mifos / Fineract · Mobile banking · Wallets · Micro-credit · USSD / SMS · Mobile Money · Stripe · FlutterWave · Quickteller · C-programmed payment terminals
@@ -31,7 +38,7 @@ Industrial Engineering & Maintenance · Thermal engineering · TPM / RCM framewo
 Java · Spring / Spring Boot · Microservices · REST APIs · Python · C / C++ · Groovy · Android / iOS · Docker · Kubernetes · Jenkins · CI/CD · Linux
 
 ### 🏛️ Tech leadership
-CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technologies Invest SAS (15 collaborators) · Multi-site engineering teams · Agile / Scrum · Program management · Strategic management (CNAM, ESAM)
+CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technologies Invest SAS (15 collaborators) · Multi-site engineering teams · Strategic management (CNAM, ESAM)
 
 ---
 
@@ -65,4 +72,4 @@ CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technolog
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tchetagni/)
 - 📄 Day rate: €500–700 / Hourly: €75–100 (flexible for remote and long-term)
 
-*Open to: senior MBSE / Systems Architecture / Solutions Engineering / Fintech / Industrial Engineering / FPGA & embedded roles — full-time or freelance — France and worldwide remote.*
+*Open to: senior Project / Program Manager, MBSE / Systems Architect, ILS Engineer, Solutions Engineer, Fintech / Industrial Engineering roles — full-time or freelance — France and worldwide remote.*
