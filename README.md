@@ -34,6 +34,9 @@ Power electronics · Instrumentation · Embedded systems (microcontrollers, Ardu
 Industrial Engineering & Maintenance · Thermal engineering · TPM / RCM frameworks · Production line industrialization · Reliability engineering
 *Academic foundation: dual Master I from IUC Douala — Electrical Engineering & Industrial Computing, plus Industrial Engineering & Maintenance.*
 
+### 🏢 ERP & Business Applications
+**ERPNext** (Frappe / Python stack) — end-to-end ERP implementation, customization (DocTypes, scripts, custom apps), API integration, accounting / inventory / sales / HR / manufacturing modules, multi-site rollouts
+
 ### ⚙️ Software & DevOps
 Java · Spring / Spring Boot · Microservices · REST APIs · Python · C / C++ · Groovy · Android / iOS · Docker · Kubernetes · Jenkins · CI/CD · Linux
 
@@ -72,4 +75,4 @@ CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technolog
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tchetagni/)
 - 📄 Day rate: €500–700 / Hourly: €75–100 (flexible for remote and long-term)
 
-*Open to: senior Project / Program Manager, MBSE / Systems Architect, ILS Engineer, Solutions Engineer, Fintech / Industrial Engineering roles — full-time or freelance — France and worldwide remote.*
+*Open to: senior Project / Program Manager, MBSE / Systems Architect, ILS Engineer, ERPNext Consultant, Solutions Engineer, Fintech / Industrial Engineering roles — full-time or freelance — France and worldwide remote.*
