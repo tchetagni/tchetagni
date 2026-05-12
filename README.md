@@ -1,7 +1,7 @@
 # Esaie Tchetagni Ngassa
 
-**Project / Program Manager · MBSE Systems Architect · ILS Engineer**
-Ex-Safran R&D · CentraleSupélec MSc · Ex-CIO (100+ staff) · Founder & President of Smart Technologies Invest SAS
+**Project / Program Manager · MBSE Systems Architect · ILS Engineer · Strategy & Business Graduate**
+Ex-Safran R&D · CentraleSupélec MSc · CNAM · ESAM · Ex-CIO (100+ staff) · Founder & President of Smart Technologies Invest SAS
 
 I help regulated and tech-intensive industries — aerospace, defense, fintech, telecom, industrial automation — accelerate their engineering cycles through rigorous system modeling, software delivery, integrated logistics support and methodology industrialization.
 
@@ -14,6 +14,10 @@ Most of my code lives in private client repositories under NDA. This GitHub is t
 ### 📊 Project & Program Management
 Agile / Scrum · SAFe-aware · Multi-site programs across 4 continents · Cross-functional team leadership (up to 15 engineers, 100+ staff oversight as CIO) · Stakeholder management from operators to C-level · Risk, budget, scope, schedule · Vendor & subcontractor management
 *Track record: delivered fintech, telecom and R&D programs in Cameroon, Philippines, France, UK, India, USA.*
+
+### 💼 Strategy, Consulting & Business
+Business school graduate (ESAM, CNAM, CentraleSupélec) · Strategic management, operating-model design, digital transformation, Engineering 4.0 · Founded and ran my own SAS (15 collaborators, OHADA jurisdiction) · Comfortable across the business / tech interface
+*Open to junior / entry-level roles in consulting firms, corporate strategy, business development — trading senior tech compensation for an industry pivot into pure business consulting is a deliberate path I welcome.*
 
 ### 🔬 MBSE & Systems Engineering
 SysML · CESAM · Arcadia / Capella · MagicGrid · Cameo Systems Modeler 2022x · OpenMBEE · INCOSE / ISO 15288 · DSML
@@ -41,7 +45,7 @@ Industrial Engineering & Maintenance · Thermal engineering · TPM / RCM framewo
 Java · Spring / Spring Boot · Microservices · REST APIs · Python · C / C++ · Groovy · Android / iOS · Docker · Kubernetes · Jenkins · CI/CD · Linux
 
 ### 🏛️ Tech leadership
-CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technologies Invest SAS (15 collaborators) · Multi-site engineering teams · Strategic management (CNAM, ESAM)
+CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technologies Invest SAS (15 collaborators) · Multi-site engineering teams
 
 ---
 
@@ -73,6 +77,6 @@ CIO N-1 to CEO (100+ staff, Nirvasian) · Founder & President of Smart Technolog
 
 - 📧 [tchetagni@gmail.com](mailto:tchetagni@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tchetagni/)
-- 📄 Day rate: €500–700 / Hourly: €75–100 (flexible for remote and long-term)
+- 📄 Day rate: €500–700 / Hourly: €75–100 (senior tech) · Open to junior consulting compensation if the role fits a business pivot
 
-*Open to: senior Project / Program Manager, MBSE / Systems Architect, ILS Engineer, ERPNext Consultant, Solutions Engineer, Fintech / Industrial Engineering roles — full-time or freelance — France and worldwide remote.*
+*Open to: senior Project / Program Manager, MBSE / Systems Architect, ILS Engineer, ERPNext Consultant, Solutions Engineer, Fintech / Industrial Engineering roles — AND junior / entry-level roles in business consulting firms, corporate strategy, business development. Full-time or freelance — France and worldwide remote.*
